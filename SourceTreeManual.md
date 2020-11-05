@@ -10,6 +10,6 @@ When you want to commit the current version to the server, you can use SourceTre
 
 ## Merge your branch with the original one
 
-Merge your local branch with the original one. And create a new pull request on Bitbucket, and click on "Close *yourBranch* after the pull request is merged"
+And create a new pull request on Bitbucket, and click on "Close *yourBranch* after the pull request is merged". Merge your local branch with the original one. 
 
 ## Fetch and pull the new version to the server where you deploy it
